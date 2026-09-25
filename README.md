@@ -87,7 +87,7 @@ Full-stack web application for turf booking with authentication, booking managem
 
 ## Connect With Me
 
-📧 Email: [antonyjoeakk@gmail.com](mailto:antonyjoeakk@gmail.com)
+📧 Email: [tonyakkarakalam@gmail.com](mailto:tonyakkarakalam@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/antony-joe-083444322
 
