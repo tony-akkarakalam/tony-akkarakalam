@@ -56,19 +56,8 @@ My interests include software engineering, mobile application development, web t
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tony-akkarakalam&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tony-akkarakalam&theme=github-dark-blue&hide_border=true" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-akkarakalam&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-[![Antony's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tony-akkarakalam&theme=github-dark&hide_border=true)](https://github.com/tony-akkarakalam)
 
 ---
 
